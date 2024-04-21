@@ -1,2 +1,0 @@
-config:
-    info: "master branch,turorial-spring-cloud-config/config-dev.yml   curl -X POST 'http://localhost:3355/actuator/refresh'  version=4"
